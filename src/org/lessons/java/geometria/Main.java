@@ -18,6 +18,7 @@ public class Main {
 			Rettangolo rettangolo = new Rettangolo(base,altezza);
 			
 			rettangolo.printResult(i+1);
+			rettangolo.disegna();
 		}
 	}
 
